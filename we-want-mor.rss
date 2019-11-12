@@ -11,26 +11,19 @@
 		<description>Join Steven and Brian as we dive into the world of Harry Potter and the Methods of Rationality! Steven will play the role of the tour guide while doing his best to not spoil any of the surprises and Brian will play the seasoned adventurer who is new to this particular work.</description>
 		<lastBuildDate>Mon, 11 Nov 2019 01:02:44 +0000</lastBuildDate>
 		<language>en-US</language>
-		<image>
-			<url>http://www.hpmorpodcast.com/wp-content/uploads/cropped-ink-splotch-32x32.jpg</url>
-			<title>The Methods of Rationality Podcast</title>
-			<link>http://www.hpmorpodcast.com</link>
-			<width>32</width>
-			<height>32</height>
-		</image> 
 		<itunes:summary>Join Steven and Brian as we dive into the world of Harry Potter and the Methods of Rationality!</itunes:summary>
 		<itunes:author>Steven Zuber and Brian ???</itunes:author>
+		<image>
+			<title>The Methods of Rationality Podcast</title>
+			<url>http://www.hpmorpodcast.com/wp-content/uploads/powerpress/HPMoR_Podcast_new.jpg</url>
+			<link>http://www.hpmorpodcast.com</link>
+		</image>
 		<itunes:image href="http://www.hpmorpodcast.com/wp-content/uploads/powerpress/HPMoR_Podcast_new.jpg"/>
 		<itunes:owner>
 			<itunes:name>Eneasz Brodski</itunes:name>
 			<itunes:email>embrodski@gmail.com</itunes:email>
 		</itunes:owner>
 		<managingEditor>embrodski@gmail.com (The Methods of Rationality Podcast)</managingEditor>
-		<image>
-			<title>The Methods of Rationality Podcast</title>
-			<url>http://www.hpmorpodcast.com/wp-content/uploads/powerpress/HPMoR_Podcast_new.jpg</url>
-			<link>http://www.hpmorpodcast.com</link>
-		</image>
 		<itunes:category text="Arts">
 			<itunes:category text="Books"></itunes:category>
 		</itunes:category>
