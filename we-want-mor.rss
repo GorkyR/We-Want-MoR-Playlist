@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+	xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
+	xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+>
+
+<channel>
+	<title>We Want MoR</title>
+	<atom:link href="http://www.hpmorpodcast.com/?feed=rss2" rel="self" type="application/rss+xml" />
+	<link>http://www.hpmorpodcast.com</link>
+	<description>Join Steven and Brian as we dive into the world of Harry Potter and the Methods of Rationality! Steven will play the role of the tour guide while doing his best to not spoil any of the surprises and Brian will play the seasoned adventurer who is new to this particular work.</description>
+	<lastBuildDate>Mon, 11 Nov 2019 01:02:44 +0000</lastBuildDate>
+	<language>en-US</language>
+	<image>
+		<url>http://www.hpmorpodcast.com/wp-content/uploads/cropped-ink-splotch-32x32.jpg</url>
+		<title>The Methods of Rationality Podcast</title>
+		<link>http://www.hpmorpodcast.com</link>
+		<width>32</width>
+		<height>32</height>
+	</image> 
+	<itunes:summary>The internet&#039;s first source for Rationalist Fiction in audio format!</itunes:summary>
+	<itunes:author>Steven Zuber and Brian ???</itunes:author>
+	<itunes:image href="http://www.hpmorpodcast.com/wp-content/uploads/powerpress/HPMoR_Podcast_new.jpg"/>
+	<itunes:owner>
+		<itunes:name>Eneasz Brodski</itunes:name>
+		<itunes:email>embrodski@gmail.com</itunes:email>
+	</itunes:owner>
+	<managingEditor>embrodski@gmail.com (The Methods of Rationality Podcast)</managingEditor>
+	<image>
+		<title>The Methods of Rationality Podcast</title>
+		<url>http://www.hpmorpodcast.com/wp-content/uploads/powerpress/HPMoR_Podcast_new.jpg</url>
+		<link>http://www.hpmorpodcast.com</link>
+	</image>
+	<itunes:category text="Arts">
+		<itunes:category text="Books"></itunes:category>
+	</itunes:category>
+	<googleplay:category text="Arts"/>
+	<rawvoice:subscribe feed="http://www.hpmorpodcast.com/?feed=rss2" itunes="http://itunes.apple.com/us/podcast/harry-potter-methods-rationality/id431784580"></rawvoice:subscribe>
+	<item>
+		<title>We Want MoR &#8211; Chapters 1-5</title>
+		<link>http://www.hpmorpodcast.com/?p=2352</link>
+		<comments>http://www.hpmorpodcast.com/?p=2352#respond</comments>
+		<pubDate>Mon, 11 Nov 2019 08:00:25 +0000</pubDate>
+		<dc:creator><![CDATA[Steven Zuber]]></dc:creator>
+		<category><![CDATA[podcast]]></category>
+		<guid isPermaLink="false">http://www.hpmorpodcast.com/?p=2352</guid>
+		<description><![CDATA[Join Steven and Brian as we dive into the world of Harry Potter and the Methods of Rationality! Steven will play the role of the tour guide while doing his best to not spoil any of the surprises and Brian will play the seasoned adventurer who is new to this… <a class="continue-reading-link" href="http://www.hpmorpodcast.com/?p=2352">Continue reading</a>]]></description>
+		<content:encoded><![CDATA[<p>Join Steven and Brian as we dive into the world of Harry Potter and the Methods of Rationality! Steven will play the role of the tour guide while doing his best to not spoil any of the surprises and Brian will play the seasoned adventurer who is new to this particular work.</p>
+		<p>In this episode, we cover the first five chapters. They&#8217;re short and closely tied together. Harry is a scientific polymath and aspiring Rationalist and discovers he&#8217;s a wizard, goes shopping, and immediately sets out on the task of figuring out <em>just what the heck is going on</em> in the universe!</p>
+		<hr />
+		<p>Original chapters, written by Eliezer Yudkowsky, can be read <a href="https://www.hpmor.com/">here</a> and the audiobook chapters, recorded by Eneasz Brodski, can be found earlier in this podcast feed and on <a href="http://www.hpmorpodcast.com">the website</a>.</p>
+		<hr />
+		<p>In next week&#8217;s episode, we will be covering chapter 6.</p>]]></content:encoded>
+		<itunes:subtitle>Join Steven and Brian as we dive into the world of Harry Potter and the Methods of Rationality! Steven will play the role of the tour guide while doing his best to not spoil any of the surprises and Brian will play the seasoned adventurer who is new to...</itunes:subtitle>
+		<itunes:summary>Join Steven and Brian as we dive into the world of Harry Potter and the Methods of Rationality! Steven will play the role of the tour guide while doing his best to not spoil any of the surprises and Brian will play the seasoned adventurer who is new to this… Continue reading</itunes:summary>
+		<wfw:commentRss>http://www.hpmorpodcast.com/?feed=rss2&#038;p=2352</wfw:commentRss>
+		<itunes:subtitle>Join Steven and Brian as we dive into the world of Harry Potter and the Methods of Rationality! Steven will play the role of the tour guide while doing his best to not spoil any of the surprises and Brian will play the seasoned adventurer who is new to...</itunes:subtitle>
+		<itunes:author>Steven Zuber</itunes:author>
+		<enclosure url="http://media.blubrry.com/hpmor/s/www.hpmorpodcast.com/wp-content/uploads/episodes/WWMoR_001.mp3" length="87880247" type="audio/mpeg" />
+		<itunes:duration>1:11:07</itunes:duration>
+	</item>
+	<item>
+		<title>We Want MoR &#8211; 00</title>
+		<link>http://www.hpmorpodcast.com/?p=2336</link>
+		<comments>http://www.hpmorpodcast.com/?p=2336#respond</comments>
+		<pubDate>Fri, 08 Nov 2019 22:19:36 +0000</pubDate>
+		<dc:creator><![CDATA[Steven Zuber]]></dc:creator>
+		<category><![CDATA[podcast]]></category>
+		<guid isPermaLink="false">http://www.hpmorpodcast.com/?p=2336</guid>
+		<description><![CDATA[In the pre-release episode, Steven sits down with Eneasz for a discussion the project of We Want MoR, of the book as a whole (including our first and lasting impressions). WE MOVE TO A SPOILER SECTION in the latter third of the recording! If you haven&#8217;t read HP MoR, absolutely… <a class="continue-reading-link" href="http://www.hpmorpodcast.com/?p=2336">Continue reading</a>]]></description>
+		<content:encoded><![CDATA[<p>In the pre-release episode, Steven sits down with Eneasz for a discussion the project of We Want MoR, of the book as a whole (including our first and lasting impressions). <strong>WE MOVE TO A SPOILER SECTION</strong> in the latter third of the recording! If you haven&#8217;t read HP MoR, absolutely skip this part. :)</p>
+		<p>&nbsp;</p>
+		<p class="p1">We discuss briefly Daystar Eld&#8217;s <a href="http://daystareld.com/hpmor-remix/">rewrite of chapters 1-4</a>. If you haven&#8217;t read them before, check them out. :)</p>
+		<p>&nbsp;</p>
+		<p>In the first episode of We Want MoR, Steven and Brian cover the first 5 chapters of the book.</p>
+		<p class="p1">Read them <a href="http://www.hpmor.com">here</a> or check out the audiobook chapters below</p>
+		<p><a href="http://www.hpmorpodcast.com/?p=60">Chapter 1</a></p>
+		<p><a href="http://www.hpmorpodcast.com/?p=75">Chapters 2 and 3</a></p>
+		<p><a href="http://www.hpmorpodcast.com/?p=79">Chapters 4 and 5</a></p>
+		<p>We&#8217;re not using this music for all of the episodes (<em>wink to our friend&#8217;s at Doof Media!</em>)</p>]]></content:encoded>
+		<wfw:commentRss>http://www.hpmorpodcast.com/?feed=rss2&#038;p=2336</wfw:commentRss>
+		<itunes:subtitle>In the pre-release episode, Steven sits down with Eneasz for a discussion the project of We Want MoR, of the book as a whole (including our first and lasting impressions). WE MOVE TO A SPOILER SECTION in the latter third of the recording!</itunes:subtitle>
+		<itunes:summary>In the pre-release episode, Steven sits down with Eneasz for a discussion the project of We Want MoR, of the book as a whole (including our first and lasting impressions). WE MOVE TO A SPOILER SECTION in the latter third of the recording! If you haven’t read HP MoR, absolutely… Continue reading</itunes:summary>
+		<itunes:author>Steven Zuber</itunes:author>
+		<enclosure url="http://media.blubrry.com/hpmor/s/www.hpmorpodcast.com/wp-content/uploads/episodes/WWMoR_000.mp3" length="101088923" type="audio/mpeg" />
+		<itunes:duration>1:14:34</itunes:duration>
+	</channel>
+</rss>
