@@ -27,6 +27,7 @@
 		<itunes:category text="Arts">
 			<itunes:category Text="Books"/>
 		</itunes:category>
+		<itunes:explicit>no</itunes:explicit>
 		<item>
 			<title>[HPMoR] 6b – The Planning Fallacy, part 2</title>
 			<link>http://www.hpmorpodcast.com/?p=93</link>
