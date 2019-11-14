@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
 	xmlns:dc="http://purl.org/dc/elements/1.1/"
@@ -9,16 +9,16 @@
 		<atom:link href="https://gorkyr.github.io/We-Want-MoR-Playlist/we-want-mor.rss" rel="self" type="application/rss+xml" />
 		<link>http://www.hpmorpodcast.com</link>
 		<description>Join Steven and Brian as we dive into the world of Harry Potter and the Methods of Rationality! Steven will play the role of the tour guide while doing his best to not spoil any of the surprises and Brian will play the seasoned adventurer who is new to this particular work.</description>
-		<lastBuildDate>Tue, 12 Nov 2019 03:30:00 +0000</lastBuildDate>
+		<lastBuildDate>Thu, 14 Nov 2019 19:40:00 +0000</lastBuildDate>
 		<language>en-US</language>
 		<itunes:summary>Join Steven and Brian as we dive into the world of Harry Potter and the Methods of Rationality!</itunes:summary>
 		<itunes:author>Steven Zuber &amp; Brian Deacon</itunes:author>
 		<image>
 			<title>The Methods of Rationality Podcast</title>
-			<url>http://www.hpmorpodcast.com/wp-content/uploads/powerpress/HPMoR_Podcast_new.jpg</url>
+			<url>https://i.imgur.com/3XjPf4u.jpg</url>
 			<link>http://www.hpmorpodcast.com</link>
 		</image>
-		<itunes:image href="http://www.hpmorpodcast.com/wp-content/uploads/powerpress/HPMoR_Podcast_new.jpg"/>
+		<itunes:image href="https://i.imgur.com/3XjPf4u.jpg"/>
 		<itunes:owner>
 			<itunes:name>Eneasz Brodski</itunes:name>
 			<itunes:email>embrodski@gmail.com</itunes:email>
@@ -30,6 +30,7 @@
 		<itunes:explicit>no</itunes:explicit>
 		<item>
 			<title>[HPMoR] 6b – The Planning Fallacy, part 2</title>
+			<itunes:title>[HPMoR] 6b – The Planning Fallacy, part 2</itunes:title>
 			<link>http://www.hpmorpodcast.com/?p=93</link>
 			<pubDate>Mon, 11 Nov 2019 08:01:30 +0000</pubDate>
 			<guid isPermaLink="false">http://www.hpmorpodcast.com/?p=93</guid>
@@ -44,6 +45,7 @@
 		</item>
 		<item>
 			<title>[HPMoR] 6a – The Planning Fallacy, part 1</title>
+			<itunes:title>[HPMoR] 6a – The Planning Fallacy, part 1</itunes:title>
 			<link>http://www.hpmorpodcast.com/?p=90</link>
 			<pubDate>Mon, 11 Nov 2019 08:01:00 +0000</pubDate>
 			<guid isPermaLink="false">http://www.hpmorpodcast.com/?p=90</guid>
@@ -58,6 +60,7 @@
 		</item>
 		<item>
 			<title>[We Want MoR] Chapters 1–5</title>
+			<itunes:title>[We Want MoR] Chapters 1–5</itunes:title>
 			<link>http://www.hpmorpodcast.com/?p=2352</link>
 			<guid isPermaLink="false">http://www.hpmorpodcast.com/?p=2352</guid>
 			<pubDate>Mon, 11 Nov 2019 08:00:25 +0000</pubDate>
@@ -77,6 +80,7 @@
 		</item>
 		<item>
 			<title>[HPMoR] 4 &amp; 5 – The Efficient Market Hypothesis &amp; The Fundamental Attribution Error</title>
+			<itunes:title>[HPMoR] 4 &amp; 5 – The Efficient Market Hypothesis &amp; The Fundamental Attribution Error</itunes:title>
 			<link>http://www.hpmorpodcast.com/?p=79</link>
 			<guid isPermaLink="false">http://www.hpmorpodcast.com/?p=79</guid>
 			<pubDate>Fri, 08 Nov 2019 22:21:00 +0000</pubDate>
@@ -91,6 +95,7 @@
 		</item>
 		<item>
 			<title>[HPMoR] 2 &amp; 3 – Everything I Believe Is False &amp; Comparing Reality to Its Alternatives</title>
+			<itunes:title>[HPMoR] 2 &amp; 3 – Everything I Believe Is False &amp; Comparing Reality to Its Alternatives</itunes:title>
 			<link>http://www.hpmorpodcast.com/?p=75</link>
 			<guid isPermaLink="false">http://www.hpmorpodcast.com/?p=75</guid>
 			<pubDate>Fri, 08 Nov 2019 22:20:30 +0000</pubDate>
@@ -105,6 +110,7 @@
 		</item>
 		<item>
 			<title>[HPMoR] 1 – A Day of Very Low Probabilty</title>
+			<itunes:title>[HPMoR] 1 – A Day of Very Low Probabilty</itunes:title>
 			<link>http://www.hpmorpodcast.com/?p=60</link>
 			<pubDate>Fri, 08 Nov 2019 22:20:00 +0000</pubDate>
 			<guid isPermaLink="false">http://www.hpmorpodcast.com/?p=60</guid>
@@ -119,6 +125,7 @@
 		</item>
 		<item>
 			<title>[We Want MoR] Pre-Release Episode</title>
+			<itunes:title>[We Want MoR] Pre-Release Episode</itunes:title>
 			<link>http://www.hpmorpodcast.com/?p=2336</link>
 			<guid isPermaLink="false">http://www.hpmorpodcast.com/?p=2336</guid>
 			<pubDate>Fri, 08 Nov 2019 22:19:36 +0000</pubDate>
