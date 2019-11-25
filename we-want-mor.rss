@@ -9,7 +9,7 @@
 		<atom:link href="https://gorkyr.github.io/We-Want-MoR-Playlist/we-want-mor.rss" rel="self" type="application/rss+xml" />
 		<link>http://www.hpmorpodcast.com</link>
 		<description>Join Steven and Brian as we dive into the world of Harry Potter and the Methods of Rationality! Steven will play the role of the tour guide while doing his best to not spoil any of the surprises and Brian will play the seasoned adventurer who is new to this particular work.</description>
-		<lastBuildDate>Mon, 25 Nov 2019 08:05:00 +0000</lastBuildDate>
+		<lastBuildDate>Mon, 25 Nov 2019 10:40:00 +0000</lastBuildDate>
 		<language>en-US</language>
 		<itunes:summary>Join Steven and Brian as we dive into the world of Harry Potter and the Methods of Rationality!</itunes:summary>
 		<itunes:author>Steven Zuber &amp; Brian Deacon</itunes:author>
@@ -43,7 +43,7 @@
 			<itunes:explicit>no</itunes:explicit>
 		</item>
 		<item>
-			<title>[We Want Mor] Chapter 7</title>
+			<title>[We Want MoR] Chapter 7</title>
 			<link>http://www.hpmorpodcast.com/?p=2357</link>
 			<guid isPermaLink="false">http://www.hpmorpodcast.com/?p=2357</guid>
 			<pubDate>Mon, 25 Nov 2019 08:00:00 +0000</pubDate>
