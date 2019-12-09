@@ -9,7 +9,7 @@
 		<atom:link href="https://gorkyr.github.io/We-Want-MoR-Playlist/we-want-mor.rss" rel="self" type="application/rss+xml" />
 		<link>http://www.hpmorpodcast.com</link>
 		<description>Join Steven and Brian as we dive into the world of Harry Potter and the Methods of Rationality! Steven will play the role of the tour guide while doing his best to not spoil any of the surprises and Brian will play the seasoned adventurer who is new to this particular work.</description>
-		<lastBuildDate>Mon, 02 Dec 2019 10:00:00 +0000</lastBuildDate>
+		<lastBuildDate>Mon, 09 Dec 2019 09:00:00 +0000</lastBuildDate>
 		<language>en-US</language>
 		<itunes:summary>Join Steven and Brian as we dive into the world of Harry Potter and the Methods of Rationality!</itunes:summary>
 		<itunes:author>Steven Zuber &amp; Brian Deacon</itunes:author>
@@ -29,6 +29,67 @@
 		</itunes:category>
 		<itunes:explicit>no</itunes:explicit>
 		<item>
+			<title>[HPMoR] 14 – The Unknown and the Unknowable</title>
+			<link>http://www.hpmorpodcast.com/?p=164</link>
+			<guid isPermaLink="false">http://www.hpmorpodcast.com/?p=164</guid>
+			<pubDate>Mon, 09 Dec 2019 08:45:00 +0000</pubDate>
+			<content:encoded><![CDATA[<p>Quest loot! &amp; seeing oneself from the outside can be illuminating.</p><p>Original Text: <a href="http://hpmor.com/chapter/14">[Chapter 14]</a></p>]]></content:encoded>
+			<description>Quest loot! &amp; seeing oneself from the outside can be illuminating.</description>
+			<itunes:subtitle>Quest loot! &amp; seeing oneself from the outside can be illuminating.</itunes:subtitle>
+			<itunes:summary>Quest loot! &amp; seeing oneself from the outside can be illuminating.</itunes:summary>
+			<itunes:author>Eneasz Brodski</itunes:author>
+			<enclosure url="http://media.blubrry.com/hpmor/www.hpmorpodcast.com/wp-content/uploads/episodes/HPMoR_Chap_14.mp3" length="34299699" type="audio/mpeg" />
+			<itunes:duration>29:50</itunes:duration>
+		</item>
+		<item>
+			<title>[HPMoR] 13 – Asking The Wrong Questions</title>
+			<link>http://www.hpmorpodcast.com/?p=156</link>
+			<guid isPermaLink="false">http://www.hpmorpodcast.com/?p=156</guid>
+			<pubDate>Mon, 09 Dec 2019 08:30:00 +0000</pubDate>
+			<content:encoded><![CDATA[<p>The Confrontation, The Apology, and The Game.</p><p>Original Text: <a href="http://hpmor.com/chapter/13">[Chapter 13]</a></p>]]></content:encoded>
+			<description>The Confrontation, The Apology, and The Game.</description>
+			<itunes:subtitle>The Confrontation, The Apology, and The Game.</itunes:subtitle>
+			<itunes:summary>The Confrontation, The Apology, and The Game.</itunes:summary>
+			<itunes:author>Eneasz Brodski</itunes:author>
+			<enclosure url="http://media.blubrry.com/hpmor/www.hpmorpodcast.com/wp-content/uploads/episodes/HPMoR_Chap_13.mp3" length="45726005" type="audio/mpeg" />
+			<itunes:duration>40:07</itunes:duration>
+		</item>
+		<item>
+			<title>[HPMoR] 12 – Impulse Control</title>
+			<link>http://www.hpmorpodcast.com/?p=151</link>
+			<guid isPermaLink="false">http://www.hpmorpodcast.com/?p=151</guid>
+			<pubDate>Mon, 09 Dec 2019 08:15:00 +0000</pubDate>
+			<content:encoded><![CDATA[<p>Changing the distant past is easy if you get started early enough.</p><p>Original Text: <a href="http://hpmor.com/chapter/12">[Chapter 12]</a></p>]]></content:encoded>
+			<description>Changing the distant past is easy if you get started early enough.</description>
+			<itunes:subtitle>Changing the distant past is easy if you get started early enough.</itunes:subtitle>
+			<itunes:summary>Changing the distant past is easy if you get started early enough.</itunes:summary>
+			<itunes:author>Eneasz Brodski</itunes:author>
+			<itunes:explicit>no</itunes:explicit>
+			<enclosure url="http://media.blubrry.com/hpmor/www.hpmorpodcast.com/wp-content/uploads/episodes/HPMoR_Chap_12.mp3" length="28284524" type="audio/mpeg" />
+			<itunes:duration>24:17</itunes:duration>
+		</item>
+		<item>
+			<title>[We Want MoR] Chapters 9 and 10</title>
+			<link>http://www.hpmorpodcast.com/?p=2375</link>
+			<guid isPermaLink="false">http://www.hpmorpodcast.com/?p=2375</guid>
+			<pubDate>Mon, 09 Dec 2019 08:00:00 +0000</pubDate>
+			<content:encoded><![CDATA[<p>Harry gets sorted, and learns a lot about himself in the process.</p>
+			<hr />
+			<p>Original chapters, written by Eliezer Yudkowsky, can be read <a href="https://www.hpmor.com/">here</a> and the audiobook chapters, recorded by Eneasz Brodski, can be found earlier in this podcast feed and on <a href="http://www.hpmorpodcast.com">the website</a>.</p>
+			<hr />
+			<p>In next week&#8217;s episode, we will be covering chapters 12 through 14.</p>
+			<hr />
+			<p><a href="https://discord.gg/9nAZaFY">Discord Link</a></p>
+			<hr />
+			<p>Album art courtesy of Lorec from The Bayesian Conspiracy podcast&#8217;s Discord. Thank you!</p>]]></content:encoded>
+			<description>Harry gets sorted, and learns a lot about himself in the process.</description>
+			<itunes:subtitle>Harry gets sorted, and learns a lot about himself in the process.</itunes:subtitle>
+			<itunes:summary>Harry gets sorted, and learns a lot about himself in the process.</itunes:summary>
+			<itunes:author>Steven Zuber</itunes:author>
+			<enclosure url="http://media.blubrry.com/hpmor/s/www.hpmorpodcast.com/wp-content/uploads/episodes/WWMoR_005.mp3" length="188075509" type="audio/mpeg" />
+			<itunes:duration>1:18:22</itunes:duration>
+		</item>
+		<item>
 			<title>[HPMoR] 10 – Self-Awareness, Part 2</title>
 			<link>http://www.hpmorpodcast.com/?p=145</link>
 			<guid isPermaLink="false">http://www.hpmorpodcast.com/?p=145</guid>
@@ -47,10 +108,10 @@
 			<link>http://www.hpmorpodcast.com/?p=141</link>
 			<guid isPermaLink="false">http://www.hpmorpodcast.com/?p=141</guid>
 			<pubDate>Mon, 02 Dec 2019 08:15:00 +0000</pubDate>
-			<content:enconded><![CDATA[<p>The Musical Episode</p><p>Original Text: <a href="http://hpmor.com/chapter/9">[Chapter 9]</a></p>]]></content:enconded>
-			<description>The Musical Episode</description>
-			<itunes:subtitle>The Musical Episode</itunes:subtitle>
-			<itunes:summary>The Musical Episode</itunes:summary>
+			<content:encoded><![CDATA[<p>The Musical Episode.</p><p>Original Text: <a href="http://hpmor.com/chapter/9">[Chapter 9]</a></p>]]></content:encoded>
+			<description>The Musical Episode.</description>
+			<itunes:subtitle>The Musical Episode.</itunes:subtitle>
+			<itunes:summary>The Musical Episode.</itunes:summary>
 			<itunes:author>Eneasz Brodski</itunes:author>
 			<itunes:explicit>no</itunes:explicit>
 			<enclosure url="http://media.blubrry.com/hpmor/www.hpmorpodcast.com/wp-content/uploads/episodes/HPMoR_Chap_9.mp3" length="13259528" type="audio/mpeg" />
@@ -68,10 +129,10 @@
 			<p>In next week's episode, we will be covering chapters 9 and 10.</p>
 			<hr />
 			<p><a href="https://discord.gg/9nAZaFY">Discord Link</a></p>
-			]]></content:encoded>
+			<p><img src="http://www.hpmorpodcast.com/wp-content/uploads/2019-11-19.png" alt="How to make science" width="229" height="351" srcset="http://www.hpmorpodcast.com/wp-content/uploads/2019-11-19-196x300.png 196w, http://www.hpmorpodcast.com/wp-content/uploads/2019-11-19-229x350.png 229w, http://www.hpmorpodcast.com/wp-content/uploads/2019-11-19-98x150.png 98w, http://www.hpmorpodcast.com/wp-content/uploads/2019-11-19.png 392w" sizes="(max-width: 229px) 100vw, 229px"/></p>]]></content:encoded>
 			<description>In this episode, we cover chapter 8! Harry meets Hermione Jean Granger, the nicest person ever, who's even smarter and kinder than the canon version. And Harry keeps acting like a pretentious prick! Are we supposed to learn to like this version of Harry Potter or are we supposed to hate him?</description>
-			<itunes:subtitle>Join Steven and Brian as we dive into the world of Harry Potter and the Methods of Rationality! Steven will play the role of the tour guide while doing his best to not spoil any of the surprises and Brian will play the seasoned adventurer who is new to...</itunes:subtitle>
-			<itunes:summary>Join Steven and Brian as we dive into the world of Harry Potter and the Methods of Rationality! Steven will play the role of the tour guide while doing his best to not spoil any of the surprises and Brian will play the seasoned adventurer who is new to this… Continue reading</itunes:summary>
+			<itunes:subtitle>In this episode, we cover chapter 8! Harry meets Hermione Jean Granger, the nicest person ever, who's even smarter and kinder than the canon version. And Harry keeps acting like a pretentious prick! Are we supposed to learn to like this version of Harry Potter or are we supposed to hate him?</itunes:subtitle>
+			<itunes:summary>In this episode, we cover chapter 8! Harry meets Hermione Jean Granger, the nicest person ever, who's even smarter and kinder than the canon version. And Harry keeps acting like a pretentious prick! Are we supposed to learn to like this version of Harry Potter or are we supposed to hate him?</itunes:summary>
 			<itunes:author>Steven Zuber</itunes:author>
 			<enclosure url="http://media.blubrry.com/hpmor/s/www.hpmorpodcast.com/wp-content/uploads/episodes/WWMoR_004.mp3" length="126711300" type="audio/mpeg" />
 			<itunes:duration>1:31:45</itunes:duration>
